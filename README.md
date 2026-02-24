@@ -72,3 +72,5 @@ The API will be available at `http://localhost:8000`.
 - `internal/repository`: Database access layer
 - `internal/routes`: Route definitions
 - `internal/service`: Business logic
+
+need refactor this not working anymore
